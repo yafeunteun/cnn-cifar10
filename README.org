@@ -1,7 +1,7 @@
 * Image Classification
 ** Introduction
 
-In this project, we'll classify images from the [[https://www.cs.toronto.edu/~kriz/cifar.html][CweFAR-10 dataset]]. 
+In this project, we'll classify images from the [[https://www.cs.toronto.edu/~kriz/cifar.html][CIFAR-10 dataset]]. 
 The dataset consists of airplanes, dogs, cats, and other objects. 
 The dataset will need to be preprocessed, then we'll train a convolutional 
 neural network on all the samples. We'll normalize the images, one-hot encode
